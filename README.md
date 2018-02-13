@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+February 13, 2018
 
 ### Student Name:  
-(First and Last Name)
+Kimberly Sapp
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment, I typed code in order to add additional categories for the calculator to convert.
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://kas17e.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. The code parseFloat is used when you want to convert a string to float.
+2. The toFixed code is used to define how many numbers are allowed after the decimal.
+3. The function clearForm when used alongside the getElementById code allows for the specified fields to be cleared.
 
 
 
